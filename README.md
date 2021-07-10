@@ -1,5 +1,7 @@
 # Brick Breaker Game
 
+A Game similar to old Brick Breaker game built using OOPS concepts.
+
 ## How to run the file:
 ```
     python3 intial.py
